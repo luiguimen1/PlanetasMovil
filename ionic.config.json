@@ -1,0 +1,8 @@
+{
+  "name": "planetas",
+  "app_id": "47becd5b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
